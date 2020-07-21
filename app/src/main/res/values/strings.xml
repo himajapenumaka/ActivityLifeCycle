@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity lifecycle</string>
+    <string name="new_app_name">Avengers</string>
+    <string name="preferences_file_name">Avengers File</string>
+</resources>
